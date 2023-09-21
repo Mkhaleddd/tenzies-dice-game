@@ -137,10 +137,11 @@ React.useEffect(()=>
     <main>  
       {tenzies && <Confetti height={windowSize.windowHeight} width={windowSize.windowWidth}/>}
       <h1>Tenzies </h1>
-      <h4>Roll until all dice are the same. 
+      <h2>Roll until all dice are the same. 
         Click each die to freeze it at its 
         current value between rolls.
-      </h4><Score rolls={rolls}
+      </h2>
+      <Score rolls={rolls}
               time={time}
       />
         <div className="dice-con">
@@ -153,7 +154,7 @@ React.useEffect(()=>
       <span>
           best time:  {("0"+Math.floor((bestTime/6000)%60)).slice(-2)}:
             {("0"+Math.floor((bestTime/1000)%60)).slice(-2)}:
-            {("0"+Math.floor((bestTime/10)%1000)).slice(-2)}
+          
       </span>
       <span>
        best rolls: {bestRolls}
