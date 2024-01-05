@@ -153,7 +153,7 @@ React.useEffect(()=>
       <div className="last-score">
       <span>
           best time:  {("0"+Math.floor((bestTime/6000)%60)).slice(-2)}:
-            {("0"+Math.floor((bestTime/1000)%60)).slice(-2)}:
+            {("0"+Math.floor((bestTime/1000)%60)).slice(-2)}
           
       </span>
       <span>
