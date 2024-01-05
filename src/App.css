@@ -61,6 +61,7 @@ padding-left: 8px;
   grid-gap: 0px ;
   margin-left:auto;
   margin-right:auto;
+  padding-left: 0.25em;
   
 }
 .die{
@@ -135,6 +136,7 @@ button:focus{
 display: flex;
 gap:8rem;
 padding-top:15px;
+padding-left: 0.5em;
 }
                                       /* animation */
 
@@ -263,7 +265,5 @@ padding-top:15px;
   main{
     width: 90%;
   }
-  .last-score{
-      padding-left: 0.5em;
-  }
+
 }
