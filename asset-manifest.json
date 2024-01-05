@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tenzies-dice-game/static/css/main.d8e145cb.css",
+    "main.css": "/tenzies-dice-game/static/css/main.bb91b35f.css",
     "main.js": "/tenzies-dice-game/static/js/main.02e593d3.js",
     "static/js/787.14ba5df3.chunk.js": "/tenzies-dice-game/static/js/787.14ba5df3.chunk.js",
     "index.html": "/tenzies-dice-game/index.html",
-    "main.d8e145cb.css.map": "/tenzies-dice-game/static/css/main.d8e145cb.css.map",
+    "main.bb91b35f.css.map": "/tenzies-dice-game/static/css/main.bb91b35f.css.map",
     "main.02e593d3.js.map": "/tenzies-dice-game/static/js/main.02e593d3.js.map",
     "787.14ba5df3.chunk.js.map": "/tenzies-dice-game/static/js/787.14ba5df3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8e145cb.css",
+    "static/css/main.bb91b35f.css",
     "static/js/main.02e593d3.js"
   ]
 }
