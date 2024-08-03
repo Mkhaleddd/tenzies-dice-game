@@ -38,12 +38,12 @@ width:50%;
 background-color: var(--background)!important;
 margin: 0 auto;
 margin-top: 5em;
-padding-right: 2em;
 border-radius: 2em;
+padding: 1rem;
 display:flex;
 align-items: center;
 flex-direction:column;
-justify-content: center
+justify-content: center;
 }
 h1{
 margin-bottom: 0;
@@ -78,7 +78,6 @@ margin-bottom: 0;
   grid-gap: 0px ;
   margin-left:auto;
   margin-right:auto;
-  padding-left: 2em;
 }
 .die{
 height: 36px;
@@ -141,8 +140,8 @@ button:focus{
   display: flex;
   flex-direction: column;
   align-self: end;
-  padding-right: 8px;
-  padding-bottom: 6px;
+  padding-top: 1em;
+  padding-bottom: 1em;
   font-weight: 400;
   color: var(--accent);
 }
@@ -220,7 +219,7 @@ color: var(--secondary);
     animation: none;
   }
 }
-@media (max-width:620px){
+@media (max-width:675px){
   main{
     width: 90%;
   }
