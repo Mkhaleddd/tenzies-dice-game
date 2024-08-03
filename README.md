@@ -1,6 +1,10 @@
 Excited to share one of my favorite game projects : Tenzies App built with ReactJS!
 
-▪️Tech Stack:ReactJS,HTML5,CSS3,ES6
+▪️Tech Stack:
+ReactJS
+HTML5
+CSS3
+ES6
 
 ▪️Key Features:
 
@@ -16,6 +20,7 @@ Excited to share one of my favorite game projects : Tenzies App built with React
 https://mkhaleddd.github.io/tenzies-dice-game/
 
 Excited to hear your thoughts and feedback!
+![image](https://github.com/user-attachments/assets/88d99446-a2ca-4066-afce-adbf9a8ab4c1)
 
 
-![image](https://github.com/user-attachments/assets/9945d9fc-dc3b-465b-a7b3-7a1637987664)
+
